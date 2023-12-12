@@ -3,6 +3,8 @@ Front end responsive webpage for new startup or social commerce. To fully custom
 <br>
 <br>
 
-![Screenshot 2023-12-11 153137](https://github.com/JDsabo/businesswa-html-page/assets/82731778/3ea699c6-81d6-490b-b07b-c78a64825f92)
-![Screenshot 2023-12-12 115546](https://github.com/JDsabo/businesswa-html-page/assets/82731778/88ccfb60-e843-4fcf-a5b4-9e7f6576d6b3)
-![Screenshot 2023-12-11 153312](https://github.com/JDsabo/businesswa-html-page/assets/82731778/5666510d-fe4d-4928-9d23-ef660fc66ec4)
+
+![Screenshot 2023-12-12 130840](https://github.com/JDsabo/businesswa-html-page/assets/82731778/f461c0cd-cdae-4487-baca-1110690e5dcf)
+![Screenshot 2023-12-12 131143](https://github.com/JDsabo/businesswa-html-page/assets/82731778/88aec3aa-d34f-461f-8e4b-eff0e449a4ca)
+![Screenshot 2023-12-12 131233](https://github.com/JDsabo/businesswa-html-page/assets/82731778/4a9a7381-ca58-4842-93c2-464f04c87411)
+![Screenshot 2023-12-12 131200](https://github.com/JDsabo/businesswa-html-page/assets/82731778/64852869-3493-4cd4-ae70-67c3360f2f2d)
