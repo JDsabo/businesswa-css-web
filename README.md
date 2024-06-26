@@ -1,5 +1,5 @@
 <h1>HTML5 & CSS page created by Sabo</h1>
-Front end responsive webpage for new startup or social commerce. To fully customize this you will need to know HTML5, CSS and libraries as Lineicons, Ayro UI, Tailwind CSS.
+Front end responsive webpage for nw startup or social commerce. To fully customize this you will need to know HTML5, CSS and libraries as Lineicons, Ayro UI, Tailwind CSS.
 <br>
 <br>
 
