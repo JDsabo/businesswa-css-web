@@ -6,4 +6,4 @@ Live App: https://businesswa-html-page.vercel.app/
 <br>
 <br>
 
-![Screenshot 2023-12-12 130840](https://github.com/JDsabo/businesswa-html-page/assets/82731778/f461c0cd-cdae-4487-baca-1110690e5dcf)
+![Screenshot 2024-07-11 134133](https://github.com/user-attachments/assets/53fc7c41-f846-42b2-a7fc-fc1f7e09dc4e)
