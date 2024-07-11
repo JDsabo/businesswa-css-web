@@ -2,7 +2,7 @@
 Front end responsive webpage for new startup or social commerce. To fully customize this you will need to know HTML5, CSS and libraries as Lineicons, Ayro UI, Tailwind CSS.
 <br>
 <br>
-Live App: https://businesswa-html-page.vercel.app/
+Live App: https://businesswa-css-web.vercel.app/
 <br>
 <br>
 
